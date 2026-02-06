@@ -1,0 +1,17 @@
+<Solution>
+  <Project Path="5 numbers average/5 numbers average.csproj" />
+  <Project Path="counting more than 10/counting more than 10.csproj" Id="54ca48a5-3052-48f2-a336-cae69a5eff00" />
+  <Project Path="counting odd/counting odd.csproj" Id="ac9563a4-6494-4615-8059-49820a232b60" />
+  <Project Path="even or odd/even or odd.csproj" />
+  <Project Path="finding negative number/finding negative number.csproj" Id="f33bd102-bf0f-457f-bdec-800c1f96680b" />
+  <Project Path="finding positive number/finding positive number.csproj" Id="7169219f-1947-44d4-92a7-3104f95159e7" />
+  <Project Path="less than 25 or more than 100/less than 25 or more than 100.csproj" Id="f9109539-ce6e-4f47-bb52-17253c45b355" />
+  <Project Path="less than 5 or equal to 30/less than 5 or equal to 30.csproj" Id="036378e0-ce3b-4245-8305-f7a4c2c7ace5" />
+  <Project Path="max number/max number.csproj" Id="327eb3c5-af75-429f-8eec-4c9f83aacfba" />
+  <Project Path="maximum from 3 nums/maximum from 3 nums.csproj" Id="74e9b2cf-7e8b-4432-8110-09b597ce6013" />
+  <Project Path="min number/min number.csproj" Id="1608d1fb-7282-4ef9-ba3f-8a9b67d6c2c7" />
+  <Project Path="minimum out of 3/minimum out of 3.csproj" Id="fe65597f-9639-4e25-b06c-967b72f13b17" />
+  <Project Path="number 0-17/number 0-17.csproj" Id="1e967582-9a1d-44ea-be9f-5197dc9f1745" />
+  <Project Path="searching even/searching even.csproj" Id="25df2d7b-d1af-481c-a25c-c3f4e342ae55" />
+  <Project Path="triangle perimeter/triangle perimeter.csproj" />
+</Solution>
