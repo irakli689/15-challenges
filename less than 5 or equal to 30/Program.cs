@@ -6,5 +6,5 @@ if (x < 5 && x == 30)
 }
 else
 {
-	Console.WriteLine("irakli number.");
+	Console.WriteLine("lasha number.");
 }
